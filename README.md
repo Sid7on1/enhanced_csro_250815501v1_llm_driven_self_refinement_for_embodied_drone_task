@@ -1,0 +1,2 @@
+# enhanced_csro_250815501v1_llm_driven_self_refinement_for_embodied_drone_task
+AI-Generated Project: enhanced_cs.RO_2508.15501v1_LLM_Driven_Self_Refinement_for_Embodied_Drone_Task - Created by WATCHDOG Multi-Agent System
